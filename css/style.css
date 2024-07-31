@@ -1,3 +1,28 @@
 * {
   box-sizing: border-box;
 }
+
+body {
+  background-color: #EEEEEE;
+  padding: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.page-wrapper {
+  max-width: 428px;
+  margin: auto;
+  background: url(../img/Blend.png) no-repeat;
+  background-position: -35px -383.13px;
+  box-shadow: 0 0 33px rgba(104, 104, 104, 0.25);
+  border-radius: 20px; 
+  
+}
+
+.header {
+  padding: 82px 28px 713px 135px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  text-align: right;
+  color: #EEEEEE;
+}
